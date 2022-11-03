@@ -1,2 +1,2 @@
 # LymphPlex
- DLBCL classification
+ DLBCL classification tool and example data
